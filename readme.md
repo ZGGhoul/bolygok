@@ -16,4 +16,4 @@
     > git log
 -   távoli repo létrehozása: **GitHub**
 -   helyi repo összekapcsolása a távolival
-    > git remote add origin https:// **tokens**
+    > git remote add origin https://**tokens** github.com/ZGGhoul/bolygok.git
